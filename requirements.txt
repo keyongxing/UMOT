@@ -1,0 +1,8 @@
+matplotlib                    3.7.5
+numpy                         1.21.0
+opencv-python                 4.10.0.84
+scipy                         1.10.1
+setuptools                    75.1.0
+timm                          1.0.15
+topic_tools                   1.14.13
+tqdm                          4.67.1
